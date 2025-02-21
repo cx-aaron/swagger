@@ -67,7 +67,7 @@
                 }
             }
         },
-        "\/account": {
+        "\/": {
             "get": {
                 "tags": [
                     "2. Account"
